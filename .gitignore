@@ -1,0 +1,18 @@
+# User config (generated at runtime, not distributed)
+.user-config.md
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Verification log (generated per session, not distributed)
+verification-log.md
+
+# Build artifacts
+*.zip
+
+# Session state (generated per session)
+progress.json
